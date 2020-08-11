@@ -55,7 +55,7 @@ If you would like to collaborate with me in some project that you have in mind o
 [twitter]: https://www.twitter.com/pelonchasva
 [reddit]: https://www.reddit.com/user/pelonchasva
 [github]: https://www.github.com/pelonchasva
-[instagram]: https://www.instagram.com/aditya__shakya
+[instagram]: https://www.instagram.com/pelonchasva
 [gmail]: mailto:pelonchasva@gmail.com
 [bmac]: https://www.buymeacoffee.com/pelonchasva
 [ko-fi]: https://ko-fi.com/pelonchasva
