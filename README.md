@@ -10,30 +10,56 @@ I also have experience in web development using HTML, CSS and Javascript, at som
 
 ## Languages
 
-[<img align="left" alt="Csharp" width="30px" src="https://image.flaticon.com/icons/svg/381/381704.svg" />](https://www.google.com/search?&q=Csharp)
-[<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/python.svg" />](https://www.google.com/search?&q=Python)
-[<img align="left" alt="Javascript" width="30px" src="https://image.flaticon.com/icons/svg/919/919828.svg" />](https://www.google.com/search?&q=Javascript)
-[<img align="left" alt="Bash" width="30px" src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/128x128.svg" />](https://www.google.com/search?&q=Bash)
+<a href="https://www.google.com/search?&q=Csharp" target="_blank">
+    <img align="left" alt="Csharp" width="30px" src="https://image.flaticon.com/icons/svg/381/381704.svg" />
+</a>
+<a href="https://www.google.com/search?&q=Python" target="_blank">
+    <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/python.svg" />
+</a>
+<a href="https://www.google.com/search?&q=Javascript" target="_blank">
+    <img align="left" alt="Javascript" width="30px" src="https://image.flaticon.com/icons/svg/919/919828.svg" />
+</a>
+<a href="https://www.google.com/search?&q=Bash" target="_blank">
+    <img align="left" alt="Bash" width="30px" src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/128x128.svg" />
+</a>
+
 
 <br />
 <br />
 
 ## Web Design
 
-[<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://www.google.com/search?&q=HTML5)
-[<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://www.google.com/search?&q=CSS)
+<a href="https://www.google.com/search?&q=HTML5" target="_blank">
+    <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+</a>
+<a href="https://www.google.com/search?&q=CSS" target="_blank">
+    <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+</a>
+
 
 <br />
 <br />
 
 ## Tools
 
-[<img align="left" alt="Windows" width="30px" src="https://image.flaticon.com/icons/svg/882/882702.svg" />](https://www.google.com/search?&q=Windows)
-[<img align="left" alt="Visual Studio" width="30px" src="https://image.flaticon.com/icons/svg/906/906324.svg" />](https://www.google.com/search?&q=Visual+Studio)
-[<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://www.google.com/search?&q=Visual+Studio+Code)
-[<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://www.google.com/search?&q=Git)
-[<img align="left" alt="GitHub" width="30px" src="https://image.flaticon.com/icons/svg/919/919847.svg" />](https://www.google.com/search?&q=Github)
-[<img align="left" alt="Linux" width="30px" src="https://image.flaticon.com/icons/svg/226/226772.svg" />](https://www.google.com/search?&q=Linux)
+<a href="https://www.google.com/search?&q=Windows" target="_blank">
+    <img align="left" alt="Windows" width="30px" src="https://image.flaticon.com/icons/svg/882/882702.svg" />
+</a>
+<a href="https://www.google.com/search?&q=Visual+Studio" target="_blank">
+    <img align="left" alt="Visual Studio" width="30px" src="https://image.flaticon.com/icons/svg/906/906324.svg" />
+</a>
+<a href="https://www.google.com/search?&q=Visual+Studio+Code" target="_blank">
+    <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+</a>
+<a href="https://www.google.com/search?&q=Git" target="_blank">
+    <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+</a>
+<a href="https://www.google.com/search?&q=Github" target="_blank">
+    <img align="left" alt="GitHub" width="30px" src="https://image.flaticon.com/icons/svg/919/919847.svg" />
+</a>
+<a href="https://www.google.com/search?&q=Linux" target="_blank">
+    <img align="left" alt="Linux" width="30px" src="https://image.flaticon.com/icons/svg/226/226772.svg" />
+</a>
 
 <br />
 <br />
@@ -42,14 +68,30 @@ I also have experience in web development using HTML, CSS and Javascript, at som
 
 If you would like to collaborate with me in some project that you have in mind or if just want some friend to play video games :video_game: with, feel free to contact me in any of my social media accounts:
 
-[<img align="left" alt="pelonchasva | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
-[<img align="left" alt="pelonchasva | Reddit" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111589.svg" />][reddit]
-[<img align="left" alt="pelonchasva | Github" width="30px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
-[<img align="left" alt="pelonchasva | Instagram" width="30px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />][instagram]
-[<img align="left" alt="pelonchasva | Dev.to" width="30px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][devto]
-[<img align="left" alt="pelonchasva | Twitch" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111668.svg" />][twitch]
-[<img align="left" alt="pelonchasva | Gmail" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][gmail]
-[<img align="left" alt="pelonchasva | Protonmail" width="20px" src="https://protonmail.com/images/media/logos/protonmail-sign-purple.png" />][protonmail]
+<a href="https://www.twitter.com/pelonchasva" target="_blank">
+    <img align="left" alt="pelonchasva | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />
+</a>
+<a href="https://www.reddit.com/user/pelonchasva" target="_blank">
+    <img align="left" alt="pelonchasva | Reddit" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111589.svg" />
+</a>
+<a href="https://www.github.com/pelonchasva" target="_blank">
+    <img align="left" alt="pelonchasva | Github" width="30px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />
+</a>
+<a href="https://www.instagram.com/pelonchasva" target="_blank">
+    <img align="left" alt="pelonchasva | Instagram" width="30px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />
+</a>
+<a href="https://dev.to/pelonchasva" target="_blank">
+    <img align="left" alt="pelonchasva | Dev.to" width="30px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />
+</a>
+<a href="https://www.twitch.tv/pelonchasva" target="_blank">
+    <img align="left" alt="pelonchasva | Twitch" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111668.svg" />
+</a>
+<a href="mailto:andres.itson@gmail.com" target="_blank">
+    <img align="left" alt="pelonchasva | Gmail" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />
+</a>
+<a href="mailto:anvalencia@protonmail.com" target="_blank">
+    <img align="left" alt="pelonchasva | Protonmail" width="20px" src="https://protonmail.com/images/media/logos/protonmail-sign-purple.png" />
+</a>
 
 <!-- References -->
 [twitter]: https://www.twitter.com/pelonchasva
