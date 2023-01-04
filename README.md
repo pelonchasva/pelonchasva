@@ -150,6 +150,11 @@ If you would like to collaborate with me in some project that you have in mind o
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=pelonchasva" />
 </a>
 
+## References
+
+* [Awesome Badges](https://github.com/badges/awesome-badges)
+* [Badges for README profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+* [Github Comaptible Markdown Emojis](https://gist.github.com/rxaviers/7360908)
 
 <!-- References -->
 [twitter]: https://www.twitter.com/pelonchasva
